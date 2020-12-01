@@ -10,7 +10,7 @@ Random Projects made with different languages
 
 ### Password System
 - Python
-- C++ (Planned)
+- C++ (WIP)
 
 ### Tic-Tac-Toe (Planned)
 
