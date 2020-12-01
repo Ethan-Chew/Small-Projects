@@ -5,8 +5,13 @@ Random Projects made with different languages
 
 ### Number Guessing
 - C++
-- Python (WIP)
+- Python
+- Swift (Planned)
 
 ### Password System
 - Python
 - C++ (Planned)
+
+### Tic-Tac-Toe (Planned)
+
+### ML Image Classifier (Planned)
