@@ -12,6 +12,9 @@ Random Projects made with different languages
 - Python
 - C++ (WIP)
 
+### Stock Prediction (LTSM)
+- Python
+
 ### Tic-Tac-Toe (Planned)
 
 ### ML Image Classifier (Planned)
