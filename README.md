@@ -15,6 +15,7 @@ Random Projects made with different languages
 ### Stock Prediction (LTSM)
 - Python
 
-### Tic-Tac-Toe (Planned)
+### Encrypt and Decrypt
+- Python
 
-### ML Image Classifier (Planned)
+### Tic-Tac-Toe (Planned)
