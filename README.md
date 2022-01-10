@@ -18,4 +18,5 @@ Random Projects made with different languages
 ### Encrypt and Decrypt
 - Python
 
-### Tic-Tac-Toe (Planned)
+### Ionic Equation
+- Python
